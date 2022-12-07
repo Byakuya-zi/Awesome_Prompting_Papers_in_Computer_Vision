@@ -82,6 +82,9 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `arXiv 2022/11` ![](https://img.shields.io/badge/MVLPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multitask--learning-BC9575?style=flat-square)
 
+- FacT: Factor-Tuning For Lightweight Adaptation on Vision Transformer [[pdf]](https://arxiv.org/pdf/2212.03145.pdf) [[code]](https://github.com/JieShibo/PETL-ViT)
+
+  `AAAI 2023`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 ### Vision-Language Prompt
 
@@ -167,7 +170,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - Parameter-Efficient Image-to-Video Transfer Learning [[pdf]](https://arxiv.org/pdf/2206.13559.pdf)
 
-  `arXiv 2022/06`  ![](https://img.shields.io/badge/ST--adapter-CD6155?style=flat-square) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+  `NeurIPS 2022`  ![](https://img.shields.io/badge/ST--adapter-CD6155?style=flat-square) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
 
 - DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[pdf]](https://arxiv.org/abs/2206.09541)
 
@@ -251,7 +254,7 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
 - Flamingo: a Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/abs/2204.14198) 
 
-  `arXiv 2022/04` ![](https://img.shields.io/badge/image--classification-759CBC?) ![](https://img.shields.io/badge/VQA-759CBC?) ![](https://img.shields.io/badge/captioning-759CBC?)
+  `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?) ![](https://img.shields.io/badge/VQA-759CBC?) ![](https://img.shields.io/badge/captioning-759CBC?)
 
 - Language Models Can See: Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf) [[code]](https://github.com/yxuansu/MAGIC)
 
