@@ -74,6 +74,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
   
+- Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks [[pdf]](https://arxiv.org/pdf/2210.03265.pdf)
+
+  `NeurIPS 2022` ![](https://img.shields.io/badge/dense--prediction-759CBC?style=flat-square)
+  
 - Towards a Unified View on Visual Parameter-Efficient Transfer Learning [[pdf]](https://arxiv.org/abs/2210.00788) [[code]](https://github.com/bruceyo/V-PETL)
   
   `arXiv 2022/10` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
