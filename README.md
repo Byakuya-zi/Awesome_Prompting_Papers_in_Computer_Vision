@@ -34,6 +34,22 @@ This section contains papers designing prompt (containing adapter) modules for p
   
   `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
   
+- Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
+
+  `NeurIPS 2022`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square)  ![](https://img.shields.io/badge/in--context--learning-BC9575?style=flat-square)
+  
+- Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning [[pdf]](https://arxiv.org/abs/2210.08823) [[code]](https://github.com/dongzelian/SSF)
+
+  `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
+- Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks [[pdf]](https://arxiv.org/pdf/2210.03265.pdf)
+
+  `NeurIPS 2022` ![](https://img.shields.io/badge/dense--prediction-759CBC?style=flat-square)
+  
+- Singular Value Fine-tuning: Few-shot Segmentation Requires Few-parameters Fine-tuning [[pdf]](https://arxiv.org/pdf/2206.06122.pdf)
+
+  `NeurIPS 2022` ![](https://img.shields.io/badge/dense--prediction-759CBC?style=flat-square)
+  
 - Vision Transformer Adapter for Dense Predictions [[pdf]](https://arxiv.org/pdf/2205.08534.pdf) [[code]](https://github.com/czczup/ViT-Adapter)
   
   `arXiv 2022/05` ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) ![](https://img.shields.io/badge/instance--segmentaion-759CBC?style=flat-square)
@@ -58,10 +74,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `arXiv 2022/08`  ![](https://img.shields.io/badge/segmentation-759CBC?style=flat-square) 
   
-- Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
-
-  `NeurIPS 2022`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square)  ![](https://img.shields.io/badge/in--context--learning-BC9575?style=flat-square)
-  
 - Visual Prompt Tuning for Test-time Domain Adaptation [[pdf]](https://arxiv.org/abs/2210.04831)
 
   `arXiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
@@ -73,14 +85,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers [[pdf]](https://arxiv.org/abs/2210.06466) [[code]](https://github.com/jochemloedeman/PGN)
 
   `arXiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
-
-- Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning [[pdf]](https://arxiv.org/abs/2210.08823) [[code]](https://github.com/dongzelian/SSF)
-
-  `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
-  
-- Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks [[pdf]](https://arxiv.org/pdf/2210.03265.pdf)
-
-  `NeurIPS 2022` ![](https://img.shields.io/badge/dense--prediction-759CBC?style=flat-square)
   
 - Towards a Unified View on Visual Parameter-Efficient Transfer Learning [[pdf]](https://arxiv.org/abs/2210.00788) [[code]](https://github.com/bruceyo/V-PETL)
   
